@@ -1,5 +1,5 @@
 # Weather-App
-A simple weather app built using React harnessing the power of . 
+A simple weather app built using React harnessing the power of OpenWeather API. 
 
 https://faizalam.github.io/Weather-App/
 <div style="display:flex">
